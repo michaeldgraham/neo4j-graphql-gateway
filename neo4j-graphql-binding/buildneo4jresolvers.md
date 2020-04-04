@@ -4,7 +4,7 @@ description: >-
   generated or that use a @cypher directive.
 ---
 
-# buildNeo4jResolvers
+# 5
 
 ## API Reference
 

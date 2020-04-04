@@ -4,7 +4,7 @@ description: >-
   @unique fields.
 ---
 
-# neo4jAssertConstraints
+# 3
 
 In order to support the use of a `@unique` field directive, `neo4jAssertConstraints` can be used to send a Cypher query to your Neo4j instance that executes the `apoc.schema.assert` procedure. For each type with a `@model` directive, constraints are created and kept for any fields on that type with a `@unique` directive, in addition to all generated `id` fields.
 

@@ -2,7 +2,7 @@
 description: A few examples of using the GraphQL Community Graph from Neo4j.
 ---
 
-# GraphQL Community Graph
+# Y
 
 For managing additional Neo4j instances with [Neo4j-GraphQL](https://github.com/neo4j-graphql/neo4j-graphql) installed, you can provide an additional binding configuration to the `bindings` parameter. If the Neo4j-GraphQL extension is not available, then you can use the [neo4j-graphql-js](https://www.npmjs.com/package/neo4j-graphql-js) package to directly translate your GraphQL requests to Cypher requests.
 

@@ -2,7 +2,7 @@
 description: Updates your Neo4j-GraphQL schema by calling the graphql.idl procedure.
 ---
 
-# neo4jIDL
+# 2
 
 In order to update your Neo4j-GraphQL schema, you can use the `neo4jIDL`export, which sends a request to Neo4j to call the [graphql.idl](https://github.com/neo4j-graphql/neo4j-graphql/tree/3.3#uploading-a-graphql-schema) procedure using the `typeDefs` you provide.
 

@@ -4,7 +4,7 @@ description: >-
   extension.
 ---
 
-# neo4jGraphQLBinding
+# 1
 
 ## Strategy
 

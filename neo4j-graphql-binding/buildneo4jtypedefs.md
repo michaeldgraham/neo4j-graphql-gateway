@@ -2,7 +2,7 @@
 description: Augments your typeDefs to support an auto-generated API.
 ---
 
-# buildNeo4jTypeDefs
+# 4
 
 ## API Reference
 
