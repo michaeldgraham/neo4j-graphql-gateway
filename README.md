@@ -1,4 +1,4 @@
-# Introduction
+# Neo4j GraphQL Gateway
 
 
 

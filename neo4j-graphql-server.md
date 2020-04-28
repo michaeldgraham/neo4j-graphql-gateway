@@ -2,7 +2,7 @@
 description: A quick way to get started using neo4j-graphql-binding with Apollo Server.
 ---
 
-# Neo4j GraphQL Gateway
+# A
 
 ## Strategy
 

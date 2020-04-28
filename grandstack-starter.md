@@ -2,7 +2,7 @@
 description: A modified example of the GRANDstack Starter project
 ---
 
-# X
+# B
 
 This is an example of the [GRANDstack Starter](https://grandstack.io/docs/getting-started.html) project that uses `Neo4jGraphQLServer`.
 
